@@ -1,42 +1,36 @@
 # frt_project
-# ✨ Telugu Health  ✨
+# ✨ Kovid  ✨
 
-This is a web based application developed for health related telugu based website in india
+COVID Consultation and Healthy Life Web Application
+Project Link - Link to project [https://zacharias1219.github.io/frt_project/]
 
-### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
-
-
-**Project Link** - http://teluguhealth.southindia.cloudapp.azure.com/
-
-
-## Features and Functionalities 😃
-
-- Interactive and responsive UI.
-- Has many graphical and visual innovative effects.
-- Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
-- User can know about health information through this website.
-- Included the feedback Survey form to increase the scope of improvement 
-
+Features and Functionalities 😷
+Seamless virtual consultations with healthcare professionals.
+Symptom tracking functionality for monitoring COVID-19 symptoms.
+Personalized recommendations for preventive healthcare measures.
+Interactive and responsive user interface.
+Integration of COVID-19 consultation services with resources for fostering healthier lifestyles.
+Feedback mechanism for continuous improvement.
+This web application aims to address the challenges posed by the COVID-19 pandemic while promoting healthier lifestyles. It provides a centralized platform for individuals to access COVID-19 consultations and guidance on maintaining overall well-being.
 ## Screenshots
 
- 📸![Screenshot 2022-03-07 090754](https://user-images.githubusercontent.com/98517345/156963750-f5d694b6-a371-4b41-817f-22c8291b37da.jpg)
 
-
+![Screenshot 2024-04-07 153439](https://github.com/zacharias1219/frt_project/assets/132373453/3588b153-846d-47b8-8289-f3e3ed733cfa)
 
    
 
 ### About Us -
 
 
-
-![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
-
-
-### Privacy policy -
+![Screenshot 2024-04-07 153455](https://github.com/zacharias1219/frt_project/assets/132373453/9d79e503-423e-49c5-871f-6f4a2fe515dc)
 
 
-![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
+
+### Contact -
+
+
+![Screenshot 2024-04-07 153539](https://github.com/zacharias1219/frt_project/assets/132373453/d438eeb7-ba03-4483-bdd3-018c71ec802c)
+
 
 
 
