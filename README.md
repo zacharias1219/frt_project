@@ -2,7 +2,7 @@
 # ✨ Kovid  ✨
 
 COVID Consultation and Healthy Life Web Application
-Project Link - Link to project [https://zacharias1219.github.io/frt_project/]
+Project Link - Link to project[https://zacharias1219.github.io/frt_project/]
 
 Features and Functionalities 😷
 Seamless virtual consultations with healthcare professionals.
