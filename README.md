@@ -32,7 +32,10 @@ This web application aims to address the challenges posed by the COVID-19 pandem
 ![Screenshot 2024-04-07 153539](https://github.com/zacharias1219/frt_project/assets/132373453/d438eeb7-ba03-4483-bdd3-018c71ec802c)
 
 
-
+### Azure Services/Technologies used -
+- Static Web Apps
+- Web Apps for Containers
+- Health Bot
 
 ## Tech Stack 💻
 
